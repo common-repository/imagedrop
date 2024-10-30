@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: montania imagedrop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-29 13:59+0100\n"
+"PO-Revision-Date: 2011-09-29 14:01+0100\n"
+"Last-Translator: Rickard Andersson <rickard@montania.se>\n"
+"Language-Team: Montania System AB <info@montania.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /Users/rickard/serversites/ImageDrop/trunk\n"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/ImageDrop.php:150
+msgid "Grid size"
+msgstr "Rutnätets storlek"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/ImageDrop.php:151
+msgid "Thumb width"
+msgstr "Miniatyrbildens bredd"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/ImageDrop.php:152
+msgid "Thumb height"
+msgstr "Miniatyrbildens höjd"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/ImageDrop.php:164
+msgid "How many images should be shown in the meta box"
+msgstr "Hur många bilder som ska visas i meta boxen"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/ImageDrop.php:176
+msgid "Width of the thumnails in the meta box, measured in pixels"
+msgstr "Bredden på miniatyrerna i meta boxen, mäts i pixlar"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/ImageDrop.php:188
+msgid "Height of the thumnails in the meta box, measured in pixels"
+msgstr "Höjden på miniatyrerna i meta boxen, mäts i pixlar"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/ImageDrop.php:322
+#: /Users/rickard/serversites/ImageDrop/trunk/ImageDrop.php:323
+msgid "Drag 'n' drop images"
+msgstr "Dra och släpp bilder"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/pages/meta_box.php:2
+msgid "Image size"
+msgstr "Bildstorlek"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/pages/meta_box.php:4
+msgid "Full"
+msgstr "Full"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/pages/meta_box.php:5
+msgid "Large"
+msgstr "Stor"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/pages/meta_box.php:6
+msgid "Medium"
+msgstr "Mellan"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/pages/meta_box.php:7
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/pages/meta_box.php:11
+#: /Users/rickard/serversites/ImageDrop/trunk/pages/meta_box.php:13
+msgid "Search"
+msgstr "Sök"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/pages/meta_box.php:16
+#: /Users/rickard/serversites/ImageDrop/trunk/pages/meta_box.php:37
+msgid "&larr; Prev page"
+msgstr "&larr; Föregående sida"
+
+#: /Users/rickard/serversites/ImageDrop/trunk/pages/meta_box.php:17
+#: /Users/rickard/serversites/ImageDrop/trunk/pages/meta_box.php:38
+msgid "Next page &rarr;"
+msgstr "Nästa sida &rarr;"
+

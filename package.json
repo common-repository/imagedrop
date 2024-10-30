@@ -1,0 +1,25 @@
+{
+    "name": "montania.se",
+    "version": "1.4.0",
+    "description": "Montania.se WordPress theme",
+    "repository": {
+        "type": "git",
+        "url": "lightning.int.montania.se:/git/montania.se"
+    },
+    "keywords": [
+        "Montania.se",
+        "WordPress",
+        "theme"
+    ],
+    "author": "Rickard Andersson",
+    "license": "Commercial",
+    "readmeFilename": "README.md",
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-jshint": "~0.1.1",
+        "grunt-contrib-concat": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-contrib-sass": "*"
+    }
+}
